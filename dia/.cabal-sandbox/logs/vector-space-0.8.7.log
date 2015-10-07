@@ -1,0 +1,17 @@
+Configuring vector-space-0.8.7...
+Building vector-space-0.8.7...
+Preprocessing library vector-space-0.8.7...
+[1 of 8] Compiling Data.AdditiveGroup ( src/Data/AdditiveGroup.hs, dist/dist-sandbox-4dfddaf6/build/Data/AdditiveGroup.o )
+[2 of 8] Compiling Data.VectorSpace ( src/Data/VectorSpace.hs, dist/dist-sandbox-4dfddaf6/build/Data/VectorSpace.o )
+[3 of 8] Compiling Data.Basis       ( src/Data/Basis.hs, dist/dist-sandbox-4dfddaf6/build/Data/Basis.o )
+[4 of 8] Compiling Data.AffineSpace ( src/Data/AffineSpace.hs, dist/dist-sandbox-4dfddaf6/build/Data/AffineSpace.o )
+[5 of 8] Compiling Data.LinearMap   ( src/Data/LinearMap.hs, dist/dist-sandbox-4dfddaf6/build/Data/LinearMap.o )
+[6 of 8] Compiling Data.Maclaurin   ( src/Data/Maclaurin.hs, dist/dist-sandbox-4dfddaf6/build/Data/Maclaurin.o )
+[7 of 8] Compiling Data.Derivative  ( src/Data/Derivative.hs, dist/dist-sandbox-4dfddaf6/build/Data/Derivative.o )
+[8 of 8] Compiling Data.Cross       ( src/Data/Cross.hs, dist/dist-sandbox-4dfddaf6/build/Data/Cross.o )
+In-place registering vector-space-0.8.7...
+Creating package registration file:
+/var/folders/qd/vm7f_fl17q1gd05l263b9g440000gn/T/pkgConf-vector-space-0.845738.7
+Installing library in
+/Users/orodio/haskell/dia/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.4/vector-space-0.8.7
+Registering vector-space-0.8.7...

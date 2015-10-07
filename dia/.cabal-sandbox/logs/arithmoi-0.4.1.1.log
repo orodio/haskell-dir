@@ -1,0 +1,81 @@
+Configuring arithmoi-0.4.1.1...
+Building arithmoi-0.4.1.1...
+Preprocessing library arithmoi-0.4.1.1...
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+[ 1 of 34] Compiling Math.NumberTheory.Primes.Sieve.Indexing ( Math/NumberTheory/Primes/Sieve/Indexing.hs, dist/dist-sandbox-4dfddaf6/build/Math/NumberTheory/Primes/Sieve/Indexing.o )
+
+<no location info>:
+    Warning: Couldn't figure out LLVM version!
+             Make sure you have installed LLVM
+ghc: could not execute: opt

@@ -1,0 +1,22 @@
+Configuring diagrams-core-1.2.0.5...
+Building diagrams-core-1.2.0.5...
+Preprocessing library diagrams-core-1.2.0.5...
+[ 1 of 13] Compiling Diagrams.Core.V  ( src/Diagrams/Core/V.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/V.o )
+[ 2 of 13] Compiling Diagrams.Core.Points ( src/Diagrams/Core/Points.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Points.o )
+[ 3 of 13] Compiling Diagrams.Core.HasOrigin ( src/Diagrams/Core/HasOrigin.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/HasOrigin.o )
+[ 4 of 13] Compiling Diagrams.Core.Transform ( src/Diagrams/Core/Transform.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Transform.o )
+[ 5 of 13] Compiling Diagrams.Core.Names ( src/Diagrams/Core/Names.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Names.o )
+[ 6 of 13] Compiling Diagrams.Core.Query ( src/Diagrams/Core/Query.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Query.o )
+[ 7 of 13] Compiling Diagrams.Core.Style ( src/Diagrams/Core/Style.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Style.o )
+[ 8 of 13] Compiling Diagrams.Core.Trace ( src/Diagrams/Core/Trace.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Trace.o )
+[ 9 of 13] Compiling Diagrams.Core.Envelope ( src/Diagrams/Core/Envelope.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Envelope.o )
+[10 of 13] Compiling Diagrams.Core.Juxtapose ( src/Diagrams/Core/Juxtapose.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Juxtapose.o )
+[11 of 13] Compiling Diagrams.Core.Types ( src/Diagrams/Core/Types.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Types.o )
+[12 of 13] Compiling Diagrams.Core.Compile ( src/Diagrams/Core/Compile.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core/Compile.o )
+[13 of 13] Compiling Diagrams.Core    ( src/Diagrams/Core.hs, dist/dist-sandbox-4dfddaf6/build/Diagrams/Core.o )
+In-place registering diagrams-core-1.2.0.5...
+Creating package registration file:
+/var/folders/qd/vm7f_fl17q1gd05l263b9g440000gn/T/pkgConf-diagrams-core-1.2.045738.5
+Installing library in
+/Users/orodio/haskell/dia/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.4/diagrams-core-1.2.0.5
+Registering diagrams-core-1.2.0.5...

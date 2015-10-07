@@ -1,0 +1,16 @@
+Configuring iproute-1.3.1...
+Building iproute-1.3.1...
+Preprocessing library iproute-1.3.1...
+[1 of 7] Compiling Data.IP.Addr     ( Data/IP/Addr.hs, dist/dist-sandbox-b8889c56/build/Data/IP/Addr.o )
+[2 of 7] Compiling Data.IP.Mask     ( Data/IP/Mask.hs, dist/dist-sandbox-b8889c56/build/Data/IP/Mask.o )
+[3 of 7] Compiling Data.IP.Range    ( Data/IP/Range.hs, dist/dist-sandbox-b8889c56/build/Data/IP/Range.o )
+[4 of 7] Compiling Data.IP.Op       ( Data/IP/Op.hs, dist/dist-sandbox-b8889c56/build/Data/IP/Op.o )
+[5 of 7] Compiling Data.IP.RouteTable.Internal ( Data/IP/RouteTable/Internal.hs, dist/dist-sandbox-b8889c56/build/Data/IP/RouteTable/Internal.o )
+[6 of 7] Compiling Data.IP.RouteTable ( Data/IP/RouteTable.hs, dist/dist-sandbox-b8889c56/build/Data/IP/RouteTable.o )
+[7 of 7] Compiling Data.IP          ( Data/IP.hs, dist/dist-sandbox-b8889c56/build/Data/IP.o )
+In-place registering iproute-1.3.1...
+Creating package registration file:
+/var/folders/qd/vm7f_fl17q1gd05l263b9g440000gn/T/pkgConf-iproute-1.334682.1
+Installing library in
+/Users/orodio/haskell/hello-scotty/.cabal-sandbox/lib/x86_64-osx-ghc-7.8.4/iproute-1.3.1
+Registering iproute-1.3.1...
